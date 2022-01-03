@@ -7,3 +7,7 @@ Added master-work
 Added work2-work, updated master-work
 
 Work2 updated from new branch work2
+
+Master updated after branch2 is created
+
+
